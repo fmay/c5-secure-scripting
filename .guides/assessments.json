@@ -1,0 +1,29 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-1522099781",
+  "source": {
+   "name": "mod-repeat",
+   "showName": false,
+   "preExecuteCommand": "",
+   "command": "~/workspace/repeat.sh",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "Which was against the rule"
+    }
+   ]
+  }
+ }
+]
