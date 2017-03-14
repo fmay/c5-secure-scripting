@@ -1,3 +1,7 @@
+
+
+
+
 **The	NSA/DHS	KU	for	basic	scripting**
 
 - Topic:	Basic	security:	input	validation

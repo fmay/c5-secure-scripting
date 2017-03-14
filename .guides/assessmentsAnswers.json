@@ -5,6 +5,36 @@
   "results": [
    {
     "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   66 Mar  9 20:21 .\\ndrwxr-xr-x 4 codio codio   54 Mar  9 02:41 ..\\ndrwxr-xr-x 1 codio codio  138 Mar  9 02:40 .git\\ndrwxr-xr-x 1 codio codio  124 Mar  9 20:21 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  9 02:40 poem\\n-rwxr-xr-x 1 codio codio   51 Mar  9 20:21 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  9 02:40 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\nHe followed her to school one day,\\nWhich was against the rule;\\nIt made the children laugh and play\\nTo see a lamb at school.total 8\\ndrwxr-xr-x 1 codio codio  40 Mar  9 02:40 .\\ndrwxr-xr-x 1 codio codio  66 Mar  9 20:21 ..\\n-rw-r--r-- 1 codio codio 110 Mar  9 02:40 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  9 02:40 verse2.txt\\n\"}]}",
+    "timestamp": 1489090916365
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   66 Mar  9 20:21 .\\ndrwxr-xr-x 4 codio codio   54 Mar  9 02:41 ..\\ndrwxr-xr-x 1 codio codio  138 Mar  9 02:40 .git\\ndrwxr-xr-x 1 codio codio  124 Mar  9 20:21 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  9 02:40 poem\\n-rwxr-xr-x 1 codio codio   51 Mar  9 20:21 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  9 02:40 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\ntotal 8\\ndrwxr-xr-x 1 codio codio  40 Mar  9 02:40 .\\ndrwxr-xr-x 1 codio codio  66 Mar  9 20:21 ..\\n-rw-r--r-- 1 codio codio 110 Mar  9 02:40 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  9 02:40 verse2.txt\\n\"}]}",
+    "timestamp": 1489090912440
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   66 Mar  9 02:42 .\\ndrwxr-xr-x 4 codio codio   54 Mar  9 02:41 ..\\ndrwxr-xr-x 1 codio codio  138 Mar  9 02:40 .git\\ndrwxr-xr-x 1 codio codio  124 Mar  9 02:44 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  9 02:40 poem\\n-rwxr-xr-x 1 codio codio   36 Mar  9 02:42 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  9 02:40 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\ntotal 8\\ndrwxr-xr-x 1 codio codio  40 Mar  9 02:40 .\\ndrwxr-xr-x 1 codio codio  66 Mar  9 02:42 ..\\n-rw-r--r-- 1 codio codio 110 Mar  9 02:40 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  9 02:40 verse2.txt\\n\"}]}",
+    "timestamp": 1489090902425
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   66 Mar  9 02:42 .\\ndrwxr-xr-x 4 codio codio   54 Mar  9 02:41 ..\\ndrwxr-xr-x 1 codio codio  138 Mar  9 02:40 .git\\ndrwxr-xr-x 1 codio codio  124 Mar  9 02:42 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  9 02:40 poem\\n-rwxr-xr-x 1 codio codio   36 Mar  9 02:42 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  9 02:40 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\ntotal 8\\ndrwxr-xr-x 1 codio codio  40 Mar  9 02:40 .\\ndrwxr-xr-x 1 codio codio  66 Mar  9 02:42 ..\\n-rw-r--r-- 1 codio codio 110 Mar  9 02:40 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  9 02:40 verse2.txt\\n\"}]}",
+    "timestamp": 1489027374907
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   66 Mar  9 02:42 .\\ndrwxr-xr-x 4 codio codio   54 Mar  9 02:41 ..\\ndrwxr-xr-x 1 codio codio  138 Mar  9 02:40 .git\\ndrwxr-xr-x 1 codio codio  124 Mar  9 02:42 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  9 02:40 poem\\n-rwxr-xr-x 1 codio codio   51 Mar  9 02:42 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  9 02:40 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\nHe followed her to school one day,\\nWhich was against the rule;\\nIt made the children laugh and play\\nTo see a lamb at school.total 8\\ndrwxr-xr-x 1 codio codio  40 Mar  9 02:40 .\\ndrwxr-xr-x 1 codio codio  66 Mar  9 02:42 ..\\n-rw-r--r-- 1 codio codio 110 Mar  9 02:40 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  9 02:40 verse2.txt\\n\"}]}",
+    "timestamp": 1489027368322
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   66 Mar  9 02:40 .\\ndrwxr-xr-x 4 codio codio   54 Mar  9 02:41 ..\\ndrwxr-xr-x 1 codio codio  138 Mar  9 02:40 .git\\ndrwxr-xr-x 1 codio codio  124 Mar  9 02:40 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  9 02:40 poem\\n-rwxr-xr-x 1 codio codio   36 Mar  9 02:40 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  9 02:40 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\ntotal 8\\ndrwxr-xr-x 1 codio codio  40 Mar  9 02:40 .\\ndrwxr-xr-x 1 codio codio  66 Mar  9 02:40 ..\\n-rw-r--r-- 1 codio codio 110 Mar  9 02:40 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  9 02:40 verse2.txt\\n\"}]}",
+    "timestamp": 1489027349575
+   },
+   {
+    "code": 0,
     "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"total 8\\ndrwxr-xr-x 1 codio codio   58 Mar  4 09:56 .\\ndrwxr-xr-x 4 codio codio   54 Mar  4 09:51 ..\\ndrwxr-xr-x 1 codio codio  124 Mar  4 09:56 .guides\\ndrwxr-xr-x 1 codio codio   40 Mar  4 09:43 poem\\n-rwxrwxrwx 1 codio codio   51 Mar  4 09:56 repeat.sh\\n-rw-r--r-- 1 codio codio 1145 Mar  4 09:17 .settings\\nMary had a little lamb,\\nIts fleece was white as snow;\\nAnd everywhere that Mary went,\\nThe lamb was sure to go.\\nHe followed her to school one day,\\nWhich was against the rule;\\nIt made the children laugh and play\\nTo see a lamb at school.total 8\\ndrwxr-xr-x 1 codio codio  40 Mar  4 09:43 .\\ndrwxr-xr-x 1 codio codio  58 Mar  4 09:56 ..\\n-rw-r--r-- 1 codio codio 110 Mar  4 09:43 verse1.txt\\n-rw-r--r-- 1 codio codio 123 Mar  4 09:43 verse2.txt\\n\"}]}",
     "timestamp": 1488621408864
    },
